@@ -1,1 +1,1 @@
-# shadowsocks-ipq806x
+# shadowsocks on ipq806x
